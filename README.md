@@ -2,6 +2,8 @@
 
 This repository contains my theoretical work on **Continuous Logic**, focusing on **Metric Structures** and **Signatures**. 
 
+**[👉 Click here to view/download: Continous_logic_talk.pdf](Continous_logic_talk.pdf)**
+
 The content is based on the foundational framework established by:
 > I. Ben Yaacov, A. Berenstein, C. W. Henson, and A. Usvyatsov. "Model Theory for Metric Structures." In *Model Theory with Applications to Algebra and Analysis*, 315–427. London Mathematical Society Lecture Note Series. Cambridge University Press, 2008[cite: 1].
 
